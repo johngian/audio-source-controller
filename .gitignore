@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.log
+tmp/
+audio-source-controller-backups
+fp-info-cache
